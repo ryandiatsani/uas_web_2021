@@ -31,7 +31,7 @@
     
               header("Location: barang.php?id={$kategoriint}");
               }else{
-                  $status = "Simpan data gagal :".mysqli_error($conn);
+                  $status = "Update data gagal :".mysqli_error($conn);
               }
             
             
