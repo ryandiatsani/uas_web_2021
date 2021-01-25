@@ -15,4 +15,4 @@ $password = "";
 $database = "database_uas_1810520035";
 
 --------------------------------------
-(assset gambar/image dari internet)
+(assset gambar dari internet, informasi barang didapat dari wikipedia dll)
