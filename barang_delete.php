@@ -4,7 +4,7 @@
     $sql = "SELECT * FROM barang WHERE id_barang = $id";
     $barang = mysqli_query($conn,$sql);
     $data = mysqli_fetch_object($barang);
-
+    $status='';
 
     if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
@@ -16,7 +16,7 @@
 
      header("Location: barang.php?id={$data->kategori_barang}");
      }else{
-         $status = "Simpan data gagal :".mysqli_error($conn);
+         $status = "delete data gagal :".mysqli_error($conn);
      }
      
     }
@@ -54,8 +54,10 @@
         </div>
       <div>
         <input type="submit" class="btn btn-danger" value="HAPUS"><br>
-        <label >jika tidak silahkan kembali ke page sebelumnya</label>
-        
+        <label >jika tidak silahkan kembali ke page sebelumnya</label><br>
+        <?php
+          echo $status  
+        ?>
     </div>
     </form>
       </div>
