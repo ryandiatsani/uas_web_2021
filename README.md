@@ -13,3 +13,6 @@ $servername = "localhost";
 $username = "root";
 $password = "";
 $database = "database_uas_1810520035";
+
+--------------------------------------
+(assset gambar/image dari internet)
