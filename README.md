@@ -1,7 +1,7 @@
 # uas_web_2021
 
 Dibuat oleh 1810520035-LALU AHMAD GEDE PARIANDI ATSANI - Menggunakan boostrap 4
-(COPYRIGHT 2021)
+(COPYRIGHT 2021 alur logika dan koding)
 
 website ini diperuntukan untuk UAS pemograman web (tema : promosi barang)
 
