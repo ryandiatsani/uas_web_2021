@@ -1,6 +1,6 @@
 # uas_web_2021
 
-Template dan koding dibuat oleh 1810520035-LALU AHMAD GEDE PARIANDI ATSANI - Menggunakan boostrap 4
+Dibuat oleh 1810520035-LALU AHMAD GEDE PARIANDI ATSANI - Menggunakan boostrap 4,PHP murni dll
 
 website ini diperuntukan untuk UAS pemograman web (tema : promosi barang)
 
