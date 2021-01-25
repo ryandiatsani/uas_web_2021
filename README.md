@@ -14,5 +14,3 @@ $username = "root";
 $password = "";
 $database = "database_uas_1810520035";
 
---------------------------------------
-(beberapa asset di dapat dari internet)
